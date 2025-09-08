@@ -21,5 +21,5 @@ You can add tasks, view them, and mark them as done.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-todo-list-app.git
-   cd python-todo-list-app
+   git clone https://github.com/ahmedrafat23/todo-list.git
+   cd todo-list
