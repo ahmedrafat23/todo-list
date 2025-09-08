@@ -47,7 +47,7 @@ while True:
 
 
 ## 📄 `todo.py`
-```python
+
 # Simple To-Do List App
 
 tasks = []  # empty list to store tasks
