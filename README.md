@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Sep 8, 2025, 09_27_14 AM" src="https://github.com/user-attachments/assets/53309318-ad1f-460d-acfc-64f862a3a92c" />
+
 # Python To-Do List App
 
 A simple command-line To-Do List application written in Python.  
